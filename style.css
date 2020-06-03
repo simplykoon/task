@@ -2,6 +2,7 @@ body {
              background-color: #919191;
              margin: 10px; 
              font-family: Rancho; 
+             position: absolute; 
   }
   header {
   	border-radius: 5px; 
